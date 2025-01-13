@@ -1,0 +1,121 @@
+{
+    "https://github.com/feder-cr/Jobs_Applier_AI_Agent": {
+        "time": "2025-01-13",
+        "desc": "Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+        "lang": "Python",
+        "star": "25973",
+        "fork": "3814"
+    },
+    "https://github.com/kamranahmedse/developer-roadmap": {
+        "time": "2025-01-13",
+        "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "lang": "TypeScript",
+        "star": "305248",
+        "fork": "39955"
+    },
+    "https://github.com/ItzCrazyKns/Perplexica": {
+        "time": "2025-01-13",
+        "desc": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+        "lang": "TypeScript",
+        "star": "18362",
+        "fork": "1762"
+    },
+    "https://github.com/dnhkng/GlaDOS": {
+        "time": "2025-01-13",
+        "desc": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+        "lang": "Python",
+        "star": "3591",
+        "fork": "312"
+    },
+    "https://github.com/fixie-ai/ultravox": {
+        "time": "2025-01-13",
+        "desc": "A fast multimodal LLM for real-time voice",
+        "lang": "Python",
+        "star": "2325",
+        "fork": "157"
+    },
+    "https://github.com/quickwit-oss/quickwit": {
+        "time": "2025-01-13",
+        "desc": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+        "lang": "Rust",
+        "star": "9132",
+        "fork": "391"
+    },
+    "https://github.com/ChrisTitusTech/winutil": {
+        "time": "2025-01-13",
+        "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+        "lang": "PowerShell",
+        "star": "26861",
+        "fork": "1594"
+    },
+    "https://github.com/excalidraw/excalidraw": {
+        "time": "2025-01-13",
+        "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+        "lang": "TypeScript",
+        "star": "89617",
+        "fork": "8547"
+    },
+    "https://github.com/raycast/extensions": {
+        "time": "2025-01-13",
+        "desc": "Everything you need to extend Raycast.",
+        "lang": "TypeScript",
+        "star": "5634",
+        "fork": "3296"
+    },
+    "https://github.com/RealKai42/qwerty-learner": {
+        "time": "2025-01-13",
+        "desc": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
+        "lang": "TypeScript",
+        "star": "16299",
+        "fork": "1581"
+    },
+    "https://github.com/mainmatter/100-exercises-to-learn-rust": {
+        "time": "2025-01-13",
+        "desc": "A self-paced course to learn Rust, one exercise at a time.",
+        "lang": "Rust",
+        "star": "6861",
+        "fork": "1235"
+    },
+    "https://github.com/leerob/next-saas-starter": {
+        "time": "2025-01-13",
+        "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+        "lang": "TypeScript",
+        "star": "7975",
+        "fork": "852"
+    },
+    "https://github.com/DrewThomasson/ebook2audiobook": {
+        "time": "2025-01-13",
+        "desc": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+        "lang": "Python",
+        "star": "6433",
+        "fork": "421"
+    },
+    "https://github.com/TrinityCore/TrinityCore": {
+        "time": "2025-01-13",
+        "desc": "TrinityCore Open Source MMO Framework (master = 11.0.7.58533, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.1.57916)",
+        "lang": "C++",
+        "star": "9784",
+        "fork": "6096"
+    },
+    "https://github.com/MagicMirrorOrg/MagicMirror": {
+        "time": "2025-01-13",
+        "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+        "lang": "JavaScript",
+        "star": "20417",
+        "fork": "4255"
+    },
+    "https://github.com/BuilderIO/gpt-crawler": {
+        "time": "2025-01-13",
+        "desc": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+        "lang": "TypeScript",
+        "star": "19937",
+        "fork": "2117"
+    },
+    "https://github.com/donnemartin/system-design-primer": {
+        "time": "2025-01-13",
+        "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "lang": "Python",
+        "star": "285718",
+        "fork": "47651"
+    }
+}

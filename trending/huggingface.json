@@ -1,0 +1,182 @@
+[
+    {
+        "id": "microsoft/phi-4",
+        "likes": 1087,
+        "downloads": 49929,
+        "url": "https://huggingface.co/microsoft/phi-4"
+    },
+    {
+        "id": "hexgrad/Kokoro-82M",
+        "likes": 842,
+        "downloads": 11354,
+        "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V3",
+        "likes": 1735,
+        "downloads": 115269,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-dev",
+        "likes": 7954,
+        "downloads": 1255361,
+        "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+    },
+    {
+        "id": "NovaSky-AI/Sky-T1-32B-Preview",
+        "likes": 188,
+        "downloads": 652,
+        "url": "https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview"
+    },
+    {
+        "id": "vikhyatk/moondream2",
+        "likes": 905,
+        "downloads": 113173,
+        "url": "https://huggingface.co/vikhyatk/moondream2"
+    },
+    {
+        "id": "nvidia/Cosmos-1.0-Diffusion-7B-Text2World",
+        "likes": 128,
+        "downloads": 1577,
+        "url": "https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Text2World"
+    },
+    {
+        "id": "stabilityai/stable-point-aware-3d",
+        "likes": 115,
+        "downloads": 2128,
+        "url": "https://huggingface.co/stabilityai/stable-point-aware-3d"
+    },
+    {
+        "id": "meta-llama/Llama-3.3-70B-Instruct",
+        "likes": 1592,
+        "downloads": 445262,
+        "url": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
+    },
+    {
+        "id": "PowerInfer/SmallThinker-3B-Preview",
+        "likes": 340,
+        "downloads": 30701,
+        "url": "https://huggingface.co/PowerInfer/SmallThinker-3B-Preview"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V3-Base",
+        "likes": 1227,
+        "downloads": 12412,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base"
+    },
+    {
+        "id": "stabilityai/stable-diffusion-3.5-large",
+        "likes": 1861,
+        "downloads": 129094,
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large"
+    },
+    {
+        "id": "cognitivecomputations/Dolphin3.0-Llama3.1-8B",
+        "likes": 109,
+        "downloads": 1617,
+        "url": "https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B"
+    },
+    {
+        "id": "unsloth/phi-4-GGUF",
+        "likes": 66,
+        "downloads": 17326,
+        "url": "https://huggingface.co/unsloth/phi-4-GGUF"
+    },
+    {
+        "id": "unsloth/DeepSeek-V3-GGUF",
+        "likes": 59,
+        "downloads": 10791,
+        "url": "https://huggingface.co/unsloth/DeepSeek-V3-GGUF"
+    },
+    {
+        "id": "answerdotai/ModernBERT-base",
+        "likes": 654,
+        "downloads": 3961681,
+        "url": "https://huggingface.co/answerdotai/ModernBERT-base"
+    },
+    {
+        "id": "sentence-transformers/all-MiniLM-L6-v2",
+        "likes": 2817,
+        "downloads": 68347756,
+        "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
+    },
+    {
+        "id": "strangerzonehf/Flux-Midjourney-Mix2-LoRA",
+        "likes": 224,
+        "downloads": 49075,
+        "url": "https://huggingface.co/strangerzonehf/Flux-Midjourney-Mix2-LoRA"
+    },
+    {
+        "id": "google/timesfm-2.0-500m-pytorch",
+        "likes": 54,
+        "downloads": 0,
+        "url": "https://huggingface.co/google/timesfm-2.0-500m-pytorch"
+    },
+    {
+        "id": "llamaindex/vdr-2b-multi-v1",
+        "likes": 49,
+        "downloads": 1173,
+        "url": "https://huggingface.co/llamaindex/vdr-2b-multi-v1"
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-schnell",
+        "likes": 3210,
+        "downloads": 654015,
+        "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell"
+    },
+    {
+        "id": "meta-llama/Llama-3.2-1B",
+        "likes": 1436,
+        "downloads": 1096823,
+        "url": "https://huggingface.co/meta-llama/Llama-3.2-1B"
+    },
+    {
+        "id": "StephanST/WALDO30",
+        "likes": 197,
+        "downloads": 0,
+        "url": "https://huggingface.co/StephanST/WALDO30"
+    },
+    {
+        "id": "Qwen/Qwen2.5-Coder-32B-Instruct",
+        "likes": 1450,
+        "downloads": 257145,
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct"
+    },
+    {
+        "id": "unsloth/phi-4",
+        "likes": 45,
+        "downloads": 6798,
+        "url": "https://huggingface.co/unsloth/phi-4"
+    },
+    {
+        "id": "kudzueye/boreal-flux-dev-v2",
+        "likes": 111,
+        "downloads": 27434,
+        "url": "https://huggingface.co/kudzueye/boreal-flux-dev-v2"
+    },
+    {
+        "id": "microsoft/phi-4-gguf",
+        "likes": 42,
+        "downloads": 22145,
+        "url": "https://huggingface.co/microsoft/phi-4-gguf"
+    },
+    {
+        "id": "coqui/XTTS-v2",
+        "likes": 2195,
+        "downloads": 1911649,
+        "url": "https://huggingface.co/coqui/XTTS-v2"
+    },
+    {
+        "id": "meta-llama/Llama-3.1-8B-Instruct",
+        "likes": 3423,
+        "downloads": 5161161,
+        "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct"
+    },
+    {
+        "id": "nvidia/Cosmos-1.0-Diffusion-14B-Video2World",
+        "likes": 41,
+        "downloads": 759,
+        "url": "https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-14B-Video2World"
+    }
+]
