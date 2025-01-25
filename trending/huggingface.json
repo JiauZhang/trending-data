@@ -1,0 +1,182 @@
+[
+    {
+        "id": "deepseek-ai/DeepSeek-R1",
+        "likes": 2369,
+        "downloads": 69615,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+    },
+    {
+        "id": "hexgrad/Kokoro-82M",
+        "likes": 2354,
+        "downloads": 33907,
+        "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+        "likes": 457,
+        "downloads": 75925,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Zero",
+        "likes": 413,
+        "downloads": 4481,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+        "likes": 348,
+        "downloads": 70143,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+    },
+    {
+        "id": "tencent/Hunyuan3D-2",
+        "likes": 329,
+        "downloads": 4786,
+        "url": "https://huggingface.co/tencent/Hunyuan3D-2"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V3",
+        "likes": 2275,
+        "downloads": 209463,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+    },
+    {
+        "id": "openbmb/MiniCPM-o-2_6",
+        "likes": 813,
+        "downloads": 57410,
+        "url": "https://huggingface.co/openbmb/MiniCPM-o-2_6"
+    },
+    {
+        "id": "ostris/Flex.1-alpha",
+        "likes": 272,
+        "downloads": 8543,
+        "url": "https://huggingface.co/ostris/Flex.1-alpha"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+        "likes": 214,
+        "downloads": 13785,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
+    },
+    {
+        "id": "jinaai/ReaderLM-v2",
+        "likes": 405,
+        "downloads": 16614,
+        "url": "https://huggingface.co/jinaai/ReaderLM-v2"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+        "likes": 186,
+        "downloads": 22936,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+        "likes": 172,
+        "downloads": 31132,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+        "likes": 167,
+        "downloads": 18809,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
+    },
+    {
+        "id": "microsoft/phi-4",
+        "likes": 1550,
+        "downloads": 182077,
+        "url": "https://huggingface.co/microsoft/phi-4"
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-dev",
+        "likes": 8220,
+        "downloads": 1419102,
+        "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+    },
+    {
+        "id": "HKUSTAudio/Llasa-3B",
+        "likes": 126,
+        "downloads": 580,
+        "url": "https://huggingface.co/HKUSTAudio/Llasa-3B"
+    },
+    {
+        "id": "MiniMaxAI/MiniMax-Text-01",
+        "likes": 473,
+        "downloads": 4255,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Text-01"
+    },
+    {
+        "id": "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
+        "likes": 100,
+        "downloads": 48000,
+        "url": "https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF"
+    },
+    {
+        "id": "bytedance-research/UI-TARS-7B-SFT",
+        "likes": 98,
+        "downloads": 816,
+        "url": "https://huggingface.co/bytedance-research/UI-TARS-7B-SFT"
+    },
+    {
+        "id": "meta-llama/Llama-3.3-70B-Instruct",
+        "likes": 1734,
+        "downloads": 570949,
+        "url": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
+    },
+    {
+        "id": "tencent/HunyuanVideo",
+        "likes": 1491,
+        "downloads": 8041,
+        "url": "https://huggingface.co/tencent/HunyuanVideo"
+    },
+    {
+        "id": "NovaSky-AI/Sky-T1-32B-Preview",
+        "likes": 510,
+        "downloads": 10916,
+        "url": "https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview"
+    },
+    {
+        "id": "bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF",
+        "likes": 66,
+        "downloads": 844743,
+        "url": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF"
+    },
+    {
+        "id": "Alibaba-NLP/gte-modernbert-base",
+        "likes": 63,
+        "downloads": 2601,
+        "url": "https://huggingface.co/Alibaba-NLP/gte-modernbert-base"
+    },
+    {
+        "id": "LatitudeGames/Wayfarer-12B",
+        "likes": 143,
+        "downloads": 2405,
+        "url": "https://huggingface.co/LatitudeGames/Wayfarer-12B"
+    },
+    {
+        "id": "FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview",
+        "likes": 58,
+        "downloads": 491,
+        "url": "https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V3-Base",
+        "likes": 1317,
+        "downloads": 20720,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base"
+    },
+    {
+        "id": "stabilityai/stable-diffusion-3.5-large",
+        "likes": 1972,
+        "downloads": 107602,
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large"
+    },
+    {
+        "id": "unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF",
+        "likes": 53,
+        "downloads": 24867,
+        "url": "https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF"
+    }
+]
