@@ -1,0 +1,114 @@
+{
+    "https://github.com/QwenLM/Qwen2.5": {
+        "time": "2025-01-31",
+        "desc": "Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",
+        "lang": "Shell",
+        "star": "13358",
+        "fork": "863"
+    },
+    "https://github.com/block/goose": {
+        "time": "2025-01-31",
+        "desc": "an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "lang": "Rust",
+        "star": "4248",
+        "fork": "282"
+    },
+    "https://github.com/QwenLM/Qwen": {
+        "time": "2025-01-31",
+        "desc": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
+        "lang": "Python",
+        "star": "15977",
+        "fork": "1315"
+    },
+    "https://github.com/QwenLM/Qwen2.5-VL": {
+        "time": "2025-01-31",
+        "desc": "Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "lang": "Jupyter Notebook",
+        "star": "5475",
+        "fork": "384"
+    },
+    "https://github.com/paperless-ngx/paperless-ngx": {
+        "time": "2025-01-31",
+        "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+        "lang": "Python",
+        "star": "24357",
+        "fork": "1407"
+    },
+    "https://github.com/ollama/ollama": {
+        "time": "2025-01-31",
+        "desc": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+        "lang": "Go",
+        "star": "116003",
+        "fork": "9235"
+    },
+    "https://github.com/QwenLM/Qwen-Agent": {
+        "time": "2025-01-31",
+        "desc": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+        "lang": "Python",
+        "star": "5526",
+        "fork": "475"
+    },
+    "https://github.com/QwenLM/Qwen2.5-Coder": {
+        "time": "2025-01-31",
+        "desc": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+        "lang": "Python",
+        "star": "4121",
+        "fork": "304"
+    },
+    "https://github.com/confluentinc/librdkafka": {
+        "time": "2025-01-31",
+        "desc": "The Apache Kafka C/C++ library",
+        "lang": "C",
+        "star": "401",
+        "fork": "3173"
+    },
+    "https://github.com/juspay/hyperswitch": {
+        "time": "2025-01-31",
+        "desc": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "lang": "Rust",
+        "star": "12929",
+        "fork": "1372"
+    },
+    "https://github.com/jef/streetmerchant": {
+        "time": "2025-01-31",
+        "desc": "🤖 The world's easiest, most powerful stock checker",
+        "lang": "TypeScript",
+        "star": "5078",
+        "fork": "1324"
+    },
+    "https://github.com/open-webui/open-webui": {
+        "time": "2025-01-31",
+        "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "lang": "JavaScript",
+        "star": "63973",
+        "fork": "7636"
+    },
+    "https://github.com/GyulyVGC/sniffnet": {
+        "time": "2025-01-31",
+        "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+        "lang": "Rust",
+        "star": "19412",
+        "fork": "588"
+    },
+    "https://github.com/oobabooga/text-generation-webui": {
+        "time": "2025-01-31",
+        "desc": "A Gradio web UI for Large Language Models with support for multiple inference backends.",
+        "lang": "Python",
+        "star": "41980",
+        "fork": "5455"
+    },
+    "https://github.com/google/meridian": {
+        "time": "2025-01-31",
+        "desc": "Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.",
+        "lang": "Python",
+        "star": "422",
+        "fork": "45"
+    },
+    "https://github.com/astral-sh/ruff": {
+        "time": "2025-01-31",
+        "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+        "lang": "Rust",
+        "star": "35141",
+        "fork": "1190"
+    }
+}

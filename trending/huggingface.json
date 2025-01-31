@@ -1,0 +1,182 @@
+[
+    {
+        "id": "deepseek-ai/DeepSeek-R1",
+        "likes": 5518,
+        "downloads": 674452,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+    },
+    {
+        "id": "deepseek-ai/Janus-Pro-7B",
+        "likes": 2169,
+        "downloads": 97451,
+        "url": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V3",
+        "likes": 2915,
+        "downloads": 804095,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+    },
+    {
+        "id": "mistralai/Mistral-Small-24B-Instruct-2501",
+        "likes": 371,
+        "downloads": 6491,
+        "url": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+    },
+    {
+        "id": "tencent/Hunyuan3D-2",
+        "likes": 676,
+        "downloads": 26318,
+        "url": "https://huggingface.co/tencent/Hunyuan3D-2"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+        "likes": 777,
+        "downloads": 214170,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+    },
+    {
+        "id": "unsloth/DeepSeek-R1-GGUF",
+        "likes": 395,
+        "downloads": 226951,
+        "url": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+    },
+    {
+        "id": "HKUSTAudio/Llasa-3B",
+        "likes": 388,
+        "downloads": 5193,
+        "url": "https://huggingface.co/HKUSTAudio/Llasa-3B"
+    },
+    {
+        "id": "hexgrad/Kokoro-82M",
+        "likes": 2610,
+        "downloads": 62798,
+        "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+    },
+    {
+        "id": "deepseek-ai/Janus-Pro-1B",
+        "likes": 290,
+        "downloads": 22735,
+        "url": "https://huggingface.co/deepseek-ai/Janus-Pro-1B"
+    },
+    {
+        "id": "m-a-p/YuE-s1-7B-anneal-en-cot",
+        "likes": 268,
+        "downloads": 7011,
+        "url": "https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+        "likes": 580,
+        "downloads": 259805,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Zero",
+        "likes": 641,
+        "downloads": 18040,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero"
+    },
+    {
+        "id": "Qwen/Qwen2.5-VL-7B-Instruct",
+        "likes": 234,
+        "downloads": 60657,
+        "url": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+        "likes": 406,
+        "downloads": 112443,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B"
+    },
+    {
+        "id": "cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese",
+        "likes": 198,
+        "downloads": 5463,
+        "url": "https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+        "likes": 369,
+        "downloads": 178486,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+    },
+    {
+        "id": "Qwen/Qwen2.5-14B-Instruct-1M",
+        "likes": 189,
+        "downloads": 4778,
+        "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M"
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-dev",
+        "likes": 8375,
+        "downloads": 1537146,
+        "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+    },
+    {
+        "id": "Qwen/Qwen2.5-VL-72B-Instruct",
+        "likes": 173,
+        "downloads": 10846,
+        "url": "https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-V3-Base",
+        "likes": 1472,
+        "downloads": 23520,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3-Base"
+    },
+    {
+        "id": "mistralai/Mistral-Small-24B-Base-2501",
+        "likes": 154,
+        "downloads": 965,
+        "url": "https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501"
+    },
+    {
+        "id": "Qwen/Qwen2.5-7B-Instruct-1M",
+        "likes": 151,
+        "downloads": 17603,
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+        "likes": 282,
+        "downloads": 185263,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+    },
+    {
+        "id": "Qwen/Qwen2.5-VL-3B-Instruct",
+        "likes": 116,
+        "downloads": 31221,
+        "url": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    {
+        "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+        "likes": 270,
+        "downloads": 127561,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
+    },
+    {
+        "id": "cagliostrolab/animagine-xl-4.0",
+        "likes": 106,
+        "downloads": 9953,
+        "url": "https://huggingface.co/cagliostrolab/animagine-xl-4.0"
+    },
+    {
+        "id": "microsoft/phi-4",
+        "likes": 1629,
+        "downloads": 293889,
+        "url": "https://huggingface.co/microsoft/phi-4"
+    },
+    {
+        "id": "openbmb/MiniCPM-o-2_6",
+        "likes": 886,
+        "downloads": 191082,
+        "url": "https://huggingface.co/openbmb/MiniCPM-o-2_6"
+    },
+    {
+        "id": "meta-llama/Llama-3.3-70B-Instruct",
+        "likes": 1809,
+        "downloads": 603506,
+        "url": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
+    }
+]
